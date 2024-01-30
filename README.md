@@ -2,8 +2,20 @@ Shopify Manager
 ===============
 
 <div align="center">
-  <img src="https://i.ibb.co/mNn8WJT/icon.png" alt="Ícone da Shopify Tools">                                                    
+  <img src="https://i.ibb.co/mNn8WJT/icon.png" alt="Ícone da Shopify Tools">   
 </div>
+<br />
+<p align="center">
+  <a href="https://github.com/Kockiee/Shopify-Tools/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/Download-v1.0.0-brightgreen.svg" alt="Download">
+  </a>
+  <a href="https://github.com/Kockiee/Shopify-Tools/stargazers">
+    <img src="https://img.shields.io/github/stars/Kockiee/Shopify-Tools.svg?style=social&label=Stars" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/Kockiee/Shopify-Tools/network">
+    <img src="https://img.shields.io/github/forks/Kockiee/Shopify-Tools.svg" alt="Forks">
+  </a>
+</p>
 
 ### Introdução
 
