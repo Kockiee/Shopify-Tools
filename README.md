@@ -2,7 +2,7 @@ Shopify Manager
 ===============
 
 <div align="center">
-  <img src="https://ibb.co/nPXCJrm" alt="Ícone da Shopify Tools">
+  <img src="https://i.ibb.co/mNn8WJT/icon.png" alt="Ícone da Shopify Tools">
 </div>
                                                                     
 [![Download](https://img.shields.io/badge/Download-v1.0.0-brightgreen.svg)](https://github.com/Kockiee/Shopify-Tools/releases/tag/v1.0.0) 
