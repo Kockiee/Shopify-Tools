@@ -11,9 +11,11 @@ Antes de começar, certifique-se de ter instalado os seguintes pacotes Python:
 
 bashCopy code
 
-`pip install --upgrade ShopifyAPI`
-`pip install prettytable`
-`pip install pyactiveresource`
+```
+pip install --upgrade ShopifyAPI          
+pip install prettytable           
+pip install pyactiveresource            
+```
 
 ### Configuração Inicial
 
