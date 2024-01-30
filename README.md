@@ -2,7 +2,7 @@ Shopify Manager
 ===============
 ### Download da última versão
 
-[Download](https://github.com/Kockiee/Shopify-Tools/releases/tag/v1.0.0)
+[![Download](https://img.shields.io/badge/Download-v1.0.0-brightgreen.svg)](https://github.com/Kockiee/Shopify-Tools/releases/tag/v1.0.0)
 
 ### Introdução
 
