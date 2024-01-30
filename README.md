@@ -1,4 +1,4 @@
-Shopify Manager
+Shopify Tools
 ===============
 
 <div align="center">
@@ -19,7 +19,7 @@ Shopify Manager
 
 ### Introdução
 
-Bem-vindo ao Shopify Manager! Este script em Python foi desenvolvido para facilitar a gestão de uma loja Shopify, permitindo a atualização de preços, comparações de preços, estoque e consulta de informações. Abaixo, você encontrará instruções sobre como utilizar as diferentes funcionalidades do programa.
+Bem-vindo ao Shopify Tools! Este script em Python foi desenvolvido para facilitar a gestão de uma loja Shopify, permitindo a atualização de preços, comparações de preços, estoque e consulta de informações. Abaixo, você encontrará instruções sobre como utilizar as diferentes funcionalidades do programa.
 
 OBS: Fiz este script para melhorar minhas habilidades com Python apenas, não me importo com o que você pode fazer com esse código, apenas peço que mantenha-o gratuito.
 
@@ -80,4 +80,4 @@ A qualquer momento, você pode encerrar o programa pressionando `Ctrl + C`. Cert
 
 Lembre-se de que nenhuma informação é salva localmente, garantindo a segurança dos dados. Em caso de dúvidas ou problemas, entre em contato com o suporte técnico.
 
-**Aproveite a gestão simplificada da sua loja Shopify com o Shopify Manager!**
+**Aproveite a gestão simplificada da sua loja Shopify com o Shopify Tools!**
