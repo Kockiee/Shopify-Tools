@@ -1,7 +1,8 @@
 Shopify Manager
 ===============
 [![Download](https://img.shields.io/badge/Download-v1.0.0-brightgreen.svg)](https://github.com/Kockiee/Shopify-Tools/releases/tag/v1.0.0) 
-[![GitHub stars](https://img.shields.io/github/stars/Kockiee/Shopify-Tools.svg?style=social&label=Star)](https://github.com/Kockiee/Shopify-Tools/stargazers)
+[![Stargazers repo roster for @Kockiee/Shopify-Tools](https://reporoster.com/stars/Kockiee/Shopify-Tools)](https://github.com/Kockiee/Shopify-Tools/stargazers)
+[![Forkers repo roster for @Kockiee/Shopify-Tools](https://reporoster.com/forks/Kockiee/Shopify-Tools)](https://github.com/Kockiee/Shopify-Tools/network/members)
 
 ### Introdução
 
