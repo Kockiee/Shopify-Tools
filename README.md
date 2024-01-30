@@ -1,9 +1,14 @@
 Shopify Manager
 ===============
+### Download da última versão
+
+[Download](https://github.com/Kockiee/Shopify-Tools/releases/tag/v1.0.0)
 
 ### Introdução
 
 Bem-vindo ao Shopify Manager! Este script em Python foi desenvolvido para facilitar a gestão de uma loja Shopify, permitindo a atualização de preços, comparações de preços, estoque e consulta de informações. Abaixo, você encontrará instruções sobre como utilizar as diferentes funcionalidades do programa.
+
+OBS: Fiz este script para melhorar minhas habilidades com Python apenas, não me importo com o que você pode fazer com esse código, apenas peço que mantenha-o gratuito.
 
 ### Requisitos
 
